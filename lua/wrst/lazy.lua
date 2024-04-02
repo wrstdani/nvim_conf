@@ -16,7 +16,7 @@ require("lazy").setup({
     {import = "wrst.plugins.lsp"}
 }, {
     install = {
-        colorscheme = { "nightfly" },
+        colorscheme = { "catppuccin-mocha" },
     },
     checker = {
         enabled = true,
